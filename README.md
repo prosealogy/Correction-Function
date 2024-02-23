@@ -1,3 +1,5 @@
+# Solo Project
+
 Case Study Link:
 <br>
 https://www.figma.com/proto/ZZAmXB2dEGdxtpKPpTCjxp/Design-portfolio-and-presentation?page-id=53%3A3261&type=design&node-id=81-3461&viewport=-1465%2C-3526%2C0.34&t=eECjloauzGjzitor-1&scaling=scale-down&starting-point-node-id=81%3A3461&mode=design
