@@ -1,5 +1,5 @@
 # Solo Project
-![project cover](https://github.com/prosealogy/MangaChat-correction-Function/assets/54846234/694d0f2a-9dce-425c-96c6-c7c30edfc355)
+![project cover](https://github.com/prosealogy/MangaChat-correction-Function/assets/54846234/beb48f8a-459d-4c50-88d9-45582ee47d16)
 
 [Case Study](https://www.figma.com/proto/ZZAmXB2dEGdxtpKPpTCjxp/Design-portfolio-and-presentation?page-id=53%3A3261&type=design&node-id=81-3461&viewport=-1465%2C-3526%2C0.34&t=eECjloauzGjzitor-1&scaling=scale-down&starting-point-node-id=81%3A3461&mode=design)
 
